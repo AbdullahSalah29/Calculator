@@ -1,1 +1,1 @@
-Simple Calculator Desktop application using c# language.
+Simple Calculator Desktop Application using C# language.
